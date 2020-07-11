@@ -2,5 +2,5 @@
 
 # SchemaCrawler
 
-> * **Please see the [SchemaCrawler website](https://www.schemacrawler.com/) for more details.**
-> * **Explore the SchemaCrawler command-line with a live tutorial on [Katacoda](https://www.katacoda.com/schemacrawler).**
+* Please see the [SchemaCrawler website](https://www.schemacrawler.com/) for more details.
+* Explore the SchemaCrawler command-line with a live tutorial on [Katacoda](https://www.katacoda.com/schemacrawler).
